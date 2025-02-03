@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/blob/main/LICENSE</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/activity</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/issues</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/pulls</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/actions</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/security</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/blob/main/.env</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/blob/main/.gitignore</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/blob/main/README.md</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/blob/main/googled5a3d7f792ef0663.html</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/blob/main/package-lock.json</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/blob/main/package.json</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/releases</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/search?q=repo%3Arivldy%2Fdiscordjs-starter++language%3AJavaScript</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/search?q=repo%3Arivldy%2Fdiscordjs-starter++language%3AHTML</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/labels</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/milestones</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/labels?sort=name-asc</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/labels?sort=name-desc</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/labels?sort=count-desc</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/labels?sort=count-asc</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/labels/bug</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/labels/documentation</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/labels/duplicate</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/labels/enhancement</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/labels/good%20first%20issue</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/labels/help%20wanted</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/labels/invalid</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/labels/question</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/labels/wontfix</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/milestones?state=open</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/milestones?state=closed</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/rivldy/discordjs-starter/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2025-02-03T09:14:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
